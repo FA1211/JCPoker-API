@@ -5,7 +5,7 @@ chardet==3.0.4
 codegen==1.0
 colorama==0.3.9
 defusedxml==0.6.0
-Django==2.2.22
+Django==2.2.24
 django-braces==1.13.0
 django-cors-headers==3.1.0
 django-cors-middleware==1.4.0
